@@ -30,5 +30,6 @@ EN: Alert messages in different languages for systems.
 | Allex Rodrigues      | en        | @FusRoDah061        |
 | Bruno Gonçalves      | en        | @brunogbr           |
 | Felipe Barelli       | pt, en    | @felipecbarelli     |
+| Jouni Järvinen       | fi, es    | @rautamiekka        |
 | Luiz Noyola          | es        |                     |
 | Pablo Rocha          | es        |                     |
