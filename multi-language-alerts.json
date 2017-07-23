@@ -63,13 +63,13 @@
     "passwords_do_not_match":"As senhas informadas não conferem."
   },
   "en": {
-    "crud_insert_success":"Successfully registered record(s).",
-    "crud_update_success":"Successfully updated record(s).",
-    "crud_delete_success":"Successfully deleted record(s).",
-    "crud_insert_error":"Error inserting record(s).",
-    "crud_update_error":"Error updating record(s).",
-    "crud_delete_error":"Error deleting record(s).",
-    "crud_confirm_delete":"Do you really wish to delete this record?",
+    "crud_insert_success":"Successfully registered record.",
+    "crud_update_success":"Successfully updated record.",
+    "crud_delete_success":"Successfully deleted record.",
+    "crud_insert_error":"Error inserting record.",
+    "crud_update_error":"Error updating record.",
+    "crud_delete_error":"Error deleting record.",
+    "crud_confirm_delete":"Do you really want to delete this record?",
     "crud_fill_error":"Fill in all the required inputs correctly.",
     "crud_record_not_found":"Record not found.",
 
@@ -87,7 +87,7 @@
 
     "invalid_firstname":"Invalid firstname.",
     "invalid_lastname":"Invalid lastname.",
-    "invalid_username":"Invalid username",
+    "invalid_username":"Invalid username.",
     "invalid_date_of_birth":"Invalid birthdate.",
     "invalid_gender":"Invalid gender.",
     "invalid_age":"Invalid age.",
