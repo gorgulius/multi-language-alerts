@@ -1,0 +1,65 @@
+{
+  "language": {
+    "crud_insert_success":"",
+    "crud_update_success":"",
+    "crud_delete_success":"",
+    "crud_insert_error":"",
+    "crud_update_error":"",
+    "crud_delete_error":"",
+    "crud_confirm_delete":"",
+    "crud_fill_error":"",
+    "crud_record_not_found":"",
+
+    "db_connect_success":"",
+    "db_connect_error":"",
+
+    "auth_success":"",
+    "auth_error":"",
+    "auth_username_error":"",
+    "auth_passoword_error":"",
+
+    "loading":"",
+    "no_results":"",
+    "page_not_found":"",
+
+    "invalid_firstname":"",
+    "invalid_lastname":"",
+    "invalid_username":"",
+    "invalid_date_of_birth":"",
+    "invalid_gender":"",
+    "invalid_age":"",
+    "invalid_email":"",
+    "invalid_phone":"",
+    "invalid_mobile_phone":"",
+    "invalid_address":"",
+    "invalid_country":"",
+    "invalid_state":"",
+    "invalid_province":"",
+    "invalid_city":"",
+    "invalid_district":"",
+    "invalid_block":"",
+    "invalid_street":"",
+    "invalid_number":"",
+    "invalid_zipcode":"",
+    "invalid_image_file":"",
+    "invalid_image_size":"",
+    "invalid_image_dimension":"",
+    "invalid_file_format":"",
+    "invalid_file_size":"",
+
+    "username_in_use":"",
+    "email_in_use":"",
+    "mobile_phone_in_use":"",  
+
+    "select_country":"",
+    "select_city":"",
+    "select_state":"",
+    "select_gender":"",
+
+    "password_is_too_small":"",
+    "password_is_too_long":"",
+    "password_is_too_weak":"",
+    "password_do_not_match":"",
+    "passwords_do_not_match":""
+  }
+}
