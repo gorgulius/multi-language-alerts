@@ -32,4 +32,5 @@ EN: Alert messages in different languages for systems.
 | Felipe Barelli       | pt, en    | @felipecbarelli     |
 | Jouni Järvinen       | fi, en    | @rautamiekka        |
 | Luiz Noyola          | es        |                     |
+| Marcos Zattar        | de        |                     |
 | Pablo Rocha          | es        |                     |
