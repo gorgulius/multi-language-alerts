@@ -1,0 +1,65 @@
+{
+  "de": {
+    "crud_insert_success":"Die Daten wurden erfolgreich registriert.",
+    "crud_update_success":"Die Daten wurden erfolgreich geändert.",
+    "crud_delete_success":"Der Datensatz wurde erfolgreich gelöscht.",
+    "crud_insert_error":"Fehler beim Registrieren der Daten.",
+    "crud_update_error":"Fehler beim Ändern der Daten.",
+    "crud_delete_error":"Fehler beim Löschen der Daten.",
+    "crud_confirm_delete":"Möchten Sie diesen Datensatz löschen?",
+    "crud_fill_error":"Bitte füllen Sie alle Felder korrekt aus.",
+    "crud_record_not_found":"Der Datensatz wurde nicht gefunden.",
+
+    "db_connect_success":"Die Verbindung mit der Datenbank wurde erfolgreich hergestellt.",
+    "db_connect_error":"Fehler beim Verbinden mit der Datenbank.",
+
+    "auth_success":"Der Benutzer wurde erfolgreich bestätigt.",
+    "auth_error":"Benutzer nicht registriert oder falsches Passwort.",
+    "auth_username_error":"Benutzer nicht registriert.",
+    "auth_passoword_error":"Falsches Passwort.",
+
+    "loading":"Die Daten werden geladen, bitte warten.",
+    "no_results":"Kein Ergebnis.",
+    "page_not_found":"Seite nicht gefunden.",
+
+    "invalid_firstname":"Der Vorname ist ungültig.",
+    "invalid_lastname":"Der Nachname ist ungültig.",
+    "invalid_username":"Der Benutzer ist ungültig.",
+    "invalid_date_of_birth":"Das Geburtsdatum ist ungültig.",
+    "invalid_gender":"Das Geschlecht ist ungültig.",
+    "invalid_age":"Das Alter ist ungültig.",
+    "invalid_email":"Die E-Mail-Adresse ist ungültig.",
+    "invalid_phone":"Die Telefonnummer ist ungültig.",
+    "invalid_mobile_phone":"Die Mobilnummer ist ungültig.",
+    "invalid_address":"Die Anschrift ist ungültig.",
+    "invalid_country":"Das Land ist ungültig.",
+    "invalid_state":"Der Bundesstaat ist ungültig.",
+    "invalid_province":"Die Provinz ist ungültig.",
+    "invalid_city":"Die Stadt ist ungültig.",
+    "invalid_district":"Der Distrikt ist ungültig.",
+    "invalid_block":"Das Stadtviertel ist ungültig.",
+    "invalid_street":"Die Straße ist ungültig.",
+    "invalid_number":"Die Hausnummer ist ungültig.",
+    "invalid_zipcode":"Die Postleitzahl ist ungültig.",
+    "invalid_image_file":"Die Bilddatei ist ungültig.",
+    "invalid_image_size":"Die Dateigröße wird nicht unterstützt.",
+    "invalid_image_dimension":"Die Bildabmessungen werden nicht unterstützt.",
+    "invalid_file_format":"Das Dateiformat ist ungültig.",
+    "invalid_file_size":"Die Dateigröße wird nicht unterstützt.",
+
+    "username_in_use":"Dieser Benutzername ist bereits belegt.",
+    "email_in_use":"Diese E-Mail-Adresse ist bereits belegt.",
+    "mobile_phone_in_use":"Diese Telefonnummer ist bereits belegt.",  
+
+    "select_country":"Bitte wählen Sie ein Land.",
+    "select_city":"Bitte wählen Sie eine Stadt.",
+    "select_state":"Bitte wählen Sie einen Bundesstaat.",
+    "select_gender":"Bitte wählen Sie das Geschlecht.",
+
+    "password_is_too_small":"Das Passwort ist zu kurz.",
+    "password_is_too_long":"Das Passwort ist zu lang.",
+    "password_is_too_weak":"Das Passwort ist zu schwach.",
+    "password_do_not_match":"Das eingegebene Passwort stimmt mit dem aktuellen Passwort nicht überein.",
+    "passwords_do_not_match":"Die eingegebenen Passwörter stimmen nicht überein."
+  }
+}
