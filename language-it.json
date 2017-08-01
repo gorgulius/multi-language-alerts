@@ -1,0 +1,65 @@
+{
+  "language": {
+    "crud_insert_success":"Dati inseriti correttamente.",
+    "crud_update_success":"Dati modificati correttamente. ",
+    "crud_delete_success":"Dati rimossi corretamente.",
+    "crud_insert_error":"Errore nell'inserimento dati.",
+    "crud_update_error":"Errore nella modifica dati.",
+    "crud_delete_error":"Errore durante la rimozione dei dati.",
+    "crud_confirm_delete":"Vuoi rimuovere questi dati?",
+    "crud_fill_error":"Compilare tutti i campi correttamente.",
+    "crud_record_not_found":"Dati non trovati.",
+
+    "db_connect_success":"Connessione con il database avvenuta correttamente.",
+    "db_connect_error":"Errore di connessione con il database.",
+
+    "auth_success":"Utente autenticato corretamente.",
+    "auth_error":"Utente non registrato o password non valida.",
+    "auth_username_error":"Utente non registrato.",
+    "auth_passoword_error":"Password non valida.",
+
+    "loading":"Caricamento, attendere...",
+    "no_results":"Nessun risultato trovato.",
+    "page_not_found":"Pagina non trovata.",
+
+    "invalid_firstname":"Nome non valido.",
+    "invalid_lastname":"Cognome non valido.",
+    "invalid_username":"Nome utente non valido.",
+    "invalid_date_of_birth":"Data di nascita non valida.",
+    "invalid_gender":"Genere non valido.",
+    "invalid_age":"Età non valida.",
+    "invalid_email":"Email non valido.",
+    "invalid_phone":"Numero non valido.",
+    "invalid_mobile_phone":"Numero di cellulare non valido.",
+    "invalid_address":"Indirizzo non valido.",
+    "invalid_country":"Paese non valido.",
+    "invalid_state":"Regione non valida.",
+    "invalid_province":"Provincia non valida.",
+    "invalid_city":"Comune non valido.",
+    "invalid_district":"Distretto non valido.",
+    "invalid_block":"Quartiere non valido.",
+    "invalid_street":"Via non valida.",
+    "invalid_number":"Numero non valido.",
+    "invalid_zipcode":"Codice postale non valido.",
+    "invalid_image_file":"File di immagine non valido.",
+    "invalid_image_size":"La grandezza del file non è supportata.",
+    "invalid_image_dimension":"Dimensioni dell'immagine non supportate.",
+    "invalid_file_format":"Format non supportato.",
+    "invalid_file_size":"La grandezza del file non è supportata.",
+
+    "username_in_use":"Nome utente già esistente.",
+    "email_in_use":"Indirizzo email già registrato.",
+    "mobile_phone_in_use":"Numero di cellulare già registrato.",  
+
+    "select_country":"Seleziona paese.",
+    "select_city":"Seleziona comune.",
+    "select_state":"Seleziona regione.",
+    "select_gender":"Seleziona genere.",
+
+    "password_is_too_small":"Password troppo corta.",
+    "password_is_too_long":"Password troppo lunga.",
+    "password_is_too_weak":"Password troppo debole.",
+    "password_do_not_match":"La password inserita non combacia con la password attuale.",
+    "passwords_do_not_match":"Le password non combaciano."
+  }
+}
