@@ -1,7 +1,7 @@
 {
   "es": {
-    "crud_insert_success":"Datos registrados con éxito.",
-    "crud_update_success":"Datos cambiados con éxito.",
+    "crud_insert_success":"Registro agregado con éxito.",
+    "crud_update_success":"Registro actualizado con éxito.",
     "crud_delete_success":"Registro eliminado con éxito.",
     "crud_insert_error":"Error al registrar datos.",
     "crud_update_error":"Error al cambiar los datos.",
@@ -10,8 +10,8 @@
     "crud_fill_error":"Llene todos los espacios correctamente.",
     "crud_record_not_found":"Registro no encontrado.",
 
-    "db_connect_success":"Conexión con el banco de datos establecida con éxito.",
-    "db_connect_error":"Error al establecer conexión con el banco de datos.",
+    "db_connect_success":"Conexión con la base de datos establecida con éxito.",
+    "db_connect_error":"Error al establecer conexión con la base de datos.",
     
     "auth_success":"Usuario autenticado con éxito.",
     "auth_error":"Usuario no registrado o contraseña invalida.",
@@ -19,7 +19,7 @@
     "auth_passoword_error":"Contraseña invalida.",
 
     "loading":"Espere, cargando...",
-    "no_results":"Ningún resultado fue devuelto.",
+    "no_results":"No existen resultados.",
     "page_not_found":"Página no encontrada.",
 
     "invalid_firstname":"Primer nombre inválido.",
@@ -28,7 +28,7 @@
     "invalid_date_of_birth":"Fecha de nacimiento inválida.",
     "invalid_gender":"Sexo inválido.",
     "invalid_age":"Edad inválida.",
-    "invalid_email":"E-mail inválido.",
+    "invalid_email":"Correo electrónico inválido.",
     "invalid_phone":"Teléfono inválido.",
     "invalid_mobile_phone":"Teléfono celular inválido.",
     "invalid_address":"Dirección inválida.",
@@ -40,16 +40,16 @@
     "invalid_block":"Barrio inválido.",
     "invalid_street":"Calle inválida.",
     "invalid_number":"Número inválido.",
-    "invalid_zipcode":"CEP inválido.",
+    "invalid_zipcode":"Código Postal inválido.",
     "invalid_image_file":"Archivo de imagen inválido.",
-    "invalid_image_size":"El tamaño del archivo no es soportado.",
-    "invalid_image_dimension":"La dimensión de la imagen no es soportada.",
+    "invalid_image_size":"El tamaño de la imagen es inválido.",
+    "invalid_image_dimension":"La dimensión de la imagen es inválida.",
     "invalid_file_format":"El formato del archivo es inválido.",
-    "invalid_file_size":"El tamaño del archivo no es soportado.",
+    "invalid_file_size":"El tamaño del archivo no es válido.",
     
-    "username_in_use":"Ese nombre de usuario ya está siendo usado.",
-    "email_in_use":"Esa dirección de e-mail ya está siendo utilizado.",
-    "mobile_phone_in_use":"Ese numero de teléfono celular ya está siendo utilizado.",  
+    "username_in_use":"Ese nombre de usuario ya está en uso.",
+    "email_in_use":"Esa dirección de correo electrónico ya está en uso.",
+    "mobile_phone_in_use":"Ese numero de teléfono celular ya está en uso.",  
     
     "select_country":"Seleccione un país.",
     "select_city":"Seleccione una ciudad.",
