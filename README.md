@@ -34,3 +34,4 @@ EN: Alert messages in different languages for systems.
 | Luiz Noyola          | es        |                     |
 | Marcos Zattar        | de        |                     |
 | Pablo Rocha          | es        |                     |
+| Cesar Urdaneta       | es        | @upcesar            |
