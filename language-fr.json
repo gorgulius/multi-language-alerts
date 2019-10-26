@@ -1,16 +1,16 @@
 {
   "fr": {
-    "crud_insert_success":"Donnés enregistres avec succès.",
-    "crud_update_success":"Donnés changés avec succès.",
+    "crud_insert_success":"Données enregistrées avec succès.",
+    "crud_update_success":"Données changées avec succès.",
     "crud_delete_success":"Registre supprimé avec succès.",
-    "crud_insert_error":"Erreur pendant l’enregistrement des donnés.",
+    "crud_insert_error":"Erreur pendant l’enregistrement des données.",
     "crud_update_error":"Erreur au changer les données.",
     "crud_delete_error":"Erreur pendant la suppression du registre.",
     "crud_confirm_delete":"Voulez-Vous supprimer ce registre?",
-    "crud_fill_error":"Rempliez-Vous tous les champs correctement, s’il vous plait.",
-    "crud_record_not_found":"Registre pas trouvé.",
+    "crud_fill_error":"Rempliez-Vous tous les champs correctement, s’il vous plaît.",
+    "crud_record_not_found":"Nous n'avons trouvé aucun registre.",
 
-    "db_connect_success":"La Connection avec la base de données a été établie avec succès.",
+    "db_connect_success":"La connexion avec la base de données a été établie avec succès.",
     "db_connect_error":"Erreur au établir la connexion avec la base de données.",
     
     "auth_success":"L'utilisateur s’a authentifié avec succès.",
@@ -20,7 +20,7 @@
 
     "loading":"Attendez-vous, c’est en cours de chargement...",
     "no_results":"Aucun résultat a été retourné.",
-    "page_not_found":"Page non trouvé.",
+    "page_not_found":"Page non trouvée.",
 
     "invalid_firstname":"Prénom invalide.",
     "invalid_lastname":"Nom invalide.",
@@ -53,13 +53,13 @@
     
     "select_country":"Sélectionnez un pays.",
     "select_city":"Sélectionnez une ville.",
-    "select_state":"Sélectionnez un état.",
+    "select_state":"Sélectionnez une région.",
     "select_gender":"Sélectionnez le genre.",
     
-    "password_is_too_small":"Le mot de passe est trop petit.",
+    "password_is_too_small":"Le mot de passe est trop court.",
     "password_is_too_long":"Le mot de passe est trop long.",
     "password_is_too_weak":"Le mot de passe est trop faible.",
-    "password_do_not_match":"Le mot de passe est différent de ce que nous a fourni.",
+    "password_do_not_match":"Le mot de passe est différent de celui qui nous a fourni.",
     "passwords_do_not_match":"Les mots de passe ne correspondent pas."
   }
 }
